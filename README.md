@@ -4,15 +4,15 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Abdullah al rafi</h2>
+<h1 align="left">Hi 👋! My name is Abdullah al rafi</h1>
 
 ###
 
-<h4 align="left">I am a full-stack web developer, specialized in  MERN stack.</h4>
+<h2 align="left">I am a full-stack web developer, specialized in  MERN stack.</h2>
 
 ###
 
-<h6 align="left">I am student of a university, studying in CSE faculty. And I am a full stack web developer. I have completed some full stack project, some of them are hosted online. I skilled in both frontend and backend but have more confident in backend development</h6>
+<h4 align="left">I am student of a university, studying in CSE faculty. And I am a full stack web developer. I have completed some full stack project, some of them are hosted online. I skilled in both frontend and backend but have more confident in backend development</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullah116632&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah116632&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
